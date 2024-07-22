@@ -1,0 +1,22 @@
+Para crear una api con EntityFramework se necesita lo siguiente:
+
+instalar:
+
+EntityFramework
+
+Diagnostics.EntityFramework
+
+EntityFramework.PostgreSQL
+
+EntityFramework.Desing
+
+
+Para crear e importer base de datos con Entity
+
+
+dotnet tool install --global dotnet-ef
+
+
+dotnet ef migrations add firstmigration -- project MinimalAPIPostgresSQL.csproj
+
+dotnet ef database update firstmigration --project MinimalAPIPostgresSQL.csproj

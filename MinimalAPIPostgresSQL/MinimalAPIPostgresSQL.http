@@ -1,0 +1,6 @@
+@MinimalAPIPostgresSQL_HostAddress = http://localhost:5229
+
+GET {{MinimalAPIPostgresSQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

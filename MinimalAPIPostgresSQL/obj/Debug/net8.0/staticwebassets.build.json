@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9I/0GnWZ4HHGKkYQ3o1aUMK73oPAR6s4tltxw05yaSg=",
+  "Source": "MinimalAPIPostgresSQL",
+  "BasePath": "_content/MinimalAPIPostgresSQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
